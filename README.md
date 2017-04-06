@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/jeylabs/laravel-dropbox-storage-driver?branch=master)](https://travis-ci.org/jeylabs/laravel-dropbox-storage-driver)
-[![Latest Stable Version](https://poser.pugx.org/jeylabs/laravel-dropbox-storage-driver/v/stable)](https://packagist.org/packages/jeylabs/laravel-dropbox-storage-driver)
-[![License](https://poser.pugx.org/jeylabs/laravel-dropbox-storage-driver/license)](https://packagist.org/packages/jeylabs/laravel-dropbox-storage-driver)
-[![Total Downloads](https://poser.pugx.org/jeylabs/laravel-dropbox-storage-driver/downloads)](https://packagist.org/packages/jeylabs/laravel-dropbox-storage-driver)
 
 # Laravel Dropbox Driver
 
